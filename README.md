@@ -1,5 +1,7 @@
 # UNIFACE — Portal Acadêmico (API + Front-end)
 
+Simulação de um Portal Acadêmico
+
 ## Como rodar
 
 1. Instale as dependências do back-end:
